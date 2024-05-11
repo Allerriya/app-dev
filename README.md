@@ -5,11 +5,11 @@
 3 Idiots" is a comedy-drama film directed by Rajkumar Hirani and produced by Vidhu Vinod Chopra. Released in 2009, the film stars Aamir Khan, R. Madhavan, Sharman Joshi, Kareena Kapoor, and Boman Irani.
 
 ## **Charaters**
-- **Rancho** (Ranchhoddas Shamaldas Chanchad): Played by Aamir Khan, he is the eccentric and intelligent protagonist who challenges conventional teaching methods.
-- **Farhan** (Farhan Qureshi): Played by R. Madhavan, he is passionate about wildlife photography but is studying engineering to fulfill his father's wishes.
-- **Raju** (Raju Rastogi): Played by Sharman Joshi, he comes from a poor family and is under immense pressure to succeed academically.
-- **Pia** (Pia Sahastrabuddhe): Played by Kareena Kapoor, Rancho's love interest and the daughter of the college's director.
-- **Virus** (Viru Sahastrabuddhe ): Played by Boman Irani, he is the strict and authoritarian college director who represents the traditional education system.
+- **Rancho (Ranchhoddas Shamaldas Chanchad)**: Played by Aamir Khan, he is the eccentric and intelligent protagonist who challenges conventional teaching methods.
+- **Farhan (Farhan Qureshi)**: Played by R. Madhavan, he is passionate about wildlife photography but is studying engineering to fulfill his father's wishes.
+- **Raju (Raju Rastogi)**: Played by Sharman Joshi, he comes from a poor family and is under immense pressure to succeed academically.
+- **Pia (Pia Sahastrabuddhe)**: Played by Kareena Kapoor, Rancho's love interest and the daughter of the college's director.
+- **Virus (Viru Sahastrabuddhe)**: Played by Boman Irani, he is the strict and authoritarian college director who represents the traditional education system.
 
 ## **Themes**
 - **Friendship**: The bond between the three friends is central to the film, highlighting the importance of supporting each other through challenges.
