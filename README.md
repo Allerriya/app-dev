@@ -1,4 +1,4 @@
-# **3 Idiots**
+# **3 Idiots by Aamir Khan**
 ![3-idiots-2009-hd-1321-poster](https://github.com/Allerriya/app-dev/assets/169507770/bd6ab3f3-bb2a-4ba4-8586-02a64ad946ed)
 
 ## **Synopsis**
